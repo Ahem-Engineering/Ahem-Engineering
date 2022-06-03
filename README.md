@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahem-Engineering
 - 👀 I’m the repository for [Ahem Engineering's](https://shop.ahem.net.au) product libraries
-- 🌱 I’m currently adding new products to our ever growing store
-- 💞️ I’m looking to see your favourite project you've made with our products!
-- 📫 How to reach me [ahem.Engineering@gmail.com](ahem.Engineering@gmail.com)
+- 🌱 I’m currently adding new products to our ever growing store.
+- 💞️ I’m looking to see projects you've made with our products!
+- 📫 Reach me at [ahem.engineering@gmail.com](ahem.engineering@gmail.com)
